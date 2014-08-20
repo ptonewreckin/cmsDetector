@@ -1,0 +1,10 @@
+Known Issues:
+Sites not ending in .com can sometimes have issues.  Will fix logic error soon.
+
+Improvements:
+
+Add detection for FCKEditor.... /CFIDE/scripts/ajax/fckeditor/
+/FCKeditor/editor/filemanager/upload/test.html
+/FCKeditor/editor/filemanager/browser/default/connectors/test.html
+/editor/filemanager/browser/default/connectors/php/connector.php
+/editor/filemanager/upload/php/upload.php
